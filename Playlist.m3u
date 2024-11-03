@@ -1,296 +1,100 @@
 #EXTM3U 
 
-
-
-#EXTINF:-1 tvg-logo="https://toffeelive.com/_next/image?url=https%3A%2F%2Fimages.toffeelive.com%2Fimages%2Fprogram%2F19779%2Flogo%2F240x240%2Fmobile_logo_975410001725875598.png&w=256&q=75" group-title="TOFFEE", TOFFEE SPORTS 	
-
-https://crichd-live.top/live/toffee/file.php?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/sports_highlights_576/sports_highlights_576.m3u8?bitrate=1000000&channel=sports_highlights_576&gp_id=  
-
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2708/logo/240x240/mobile_logo_406284001687254721.png" group-title="TOFFEE", TOFFEE MOVIES 	
-
-https://crichd-live.top/live/toffee/file.php?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/toffee_movie_576/toffee_movie_576.m3u8?bitrate=1000000&channel=toffee_movie_576&gp_id= 
-
-#EXTINF:-1 tvg-logo="https://beta-dev.toffeelive.com/_next/image?url=https%3A%2F%2Fimages.toffeelive.com%2Fimages%2Fprogram%2F44878%2Flogo%2F240x240%2Fmobile_logo_889093001687255310.png&w=256&q=75" group-title="TOFFEE", TOFFEE DRAMAS 	
-
-https://crichd-live.top/live/toffee/file.php?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/toffee_drama_576/toffee_drama_576.m3u8?bitrate=1000000&channel=toffee_drama_576&gp_id=  
-
-#EXTINF:-1 tvg-logo="https://tvschedule.today/_next/image?url=https%3A%2F%2Fltsk-cdn.s3.eu-west-1.amazonaws.com%2Fjumpstart%2FTemp_Live%2Fcdn%2FHLS%2FChannel%2FimageContent-11970-j9luk5ag-v1%2FimageContent-11970-j9luk5ag-m1.png&w=256&q=75" group-title="TOFFEE", ZEE BANGLA HD
-
-http://bd.ottbd.online:2082/live/rozario859/01327184859/438.m3u8    
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gcnBfCXr/20241101-152819.png" group-title="TOFFEE", ZEE TV HD 	
-
-http://bd.ottbd.online:2082/live/rozario859/01327184859/2203.m3u8  
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/WfQLGnS/image-10.webp" group-title="TOFFEE", SONY ENTERTAINMENT 	
-
-https://crichd-live.top/live/toffee/file.php?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/sony_entertainment_576/sony_entertainment_576.m3u8?bitrate=1000000&channel=sony_entertainment_576&gp_id=  
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RbR2hvY/image-11.webp" group-title="TOFFEE", SONY ENTERTAINMENT HD 	
-
-https://crichd-live.top/live/toffee/file.php?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/sony_entertainmnt_hd_576/sony_entertainmnt_hd_576.m3u8?bitrate=1000000&channel=sony_entertainmnt_hd_576&gp_id=  
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/59PWZt1/image-12.webp" group-title="TOFFEE", SOMY MAX 	
-
-https://crichd-live.top/live/toffee/file.php?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/sony_max_576/sony_max_576.m3u8?bitrate=1000000&channel=sony_max_576&gp_id=  
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Dt7ZTd3/image-13.webp" group-title="TOFFEE", SONY MAX HD 	
-
-https://crichd-live.top/live/toffee/play.php?id=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fset_max_hd%2Fplaylist.m3u8  
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Qn0459w/image-14.webp" group-title="TOFFEE", B4U MUSIC	
-
-https://crichd-live.top/live/toffee/file.php?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/b4umusic_320/b4umusic_320.m3u8?bitrate=768000&channel=b4umusic_320&gp_id=  
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/b2Lw1Wz/image-15.webp" group-title="TOFFEE", SONY AATH 	
-
-https://crichd-live.top/live/toffee/file.php?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/sony_aath_576/sony_aath_576.m3u8?bitrate=1000000&channel=sony_aath_576&gp_id=  
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/PwHt6Nt/image-16.webp" group-title="TOFFEE", SONY SAB HD 	
-
-https://crichd-live.top/live/toffee/file.php?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/sony_sab_hd_576/sony_sab_hd_576.m3u8?bitrate=1000000&channel=sony_sab_hd_576&gp_id=  
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/SKZLLgy/image-17.webp" group-title="TOFFEE", SONY MAX 2 	
-
-https://crichd-live.top/live/toffee/file.php?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/sony_max_2_576/sony_max_2_576.m3u8?bitrate=1000000&channel=sony_max_2_576&gp_id= 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0c5CCXS/image-18.webp" group-title="TOFFEE", SONY WAH 	
-
-https://crichd-live.top/live/toffee/file.php?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/sony_wah_576/sony_wah_576.m3u8?bitrate=1000000&channel=sony_wah_576&gp_id=  
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7CCFfJz/image-19.webp" group-title="TOFFEE", SONY YAY 	
-
-https://crichd-live.top/live/toffee/file.php?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/sony_yay_576/sony_yay_576.m3u8?bitrate=1000000&channel=sony_yay_576&gp_id=  
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xCpBQCF/image-20.webp" group-title="TOFFEE", SONY BBC EARTH HD 	
-
-https://crichd-live.top/live/toffee/file.php?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/sony_bbc_earth_hd_576/sony_bbc_earth_hd_576.m3u8?bitrate=1000000&channel=sony_bbc_earth_hd_576&gp_id=  
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GCLBCfr/image-21.webp" group-title="TOFFEE", ZEE BANGLA CINEMA  	
-
-http://tv.cloudcdn.me/live.ts?channelId=119&uid=15585&deviceMac=00:1A:79:D9:7F:BB  
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/jyDT76P/image-22.webp" group-title="TOFFEE", ZEE CINEMA HD 	
-
-https://live.drmlive-02.workers.dev/zee/zee-cinema-hd.m3u8  
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8YChcJ3/image-23.webp" group-title="TOFFEE", SONY PIX HD 	
-
-https://crichd-live.top/live/toffee/file.php?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/sony_pix_hd_576/sony_pix_hd_576.m3u8?bitrate=1000000&channel=sony_pix_hd_576&gp_id= 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/P17MCJ1/image-24.webp" group-title="TOFFEE", B4U MOVIES 	
-
-https://crichd-live.top/live/toffee/file.php?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/b4u_movies_576/b4u_movies_576.m3u8?bitrate=1000000&channel=b4u_movies_576&gp_id= 
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/yxxq5WqN/20241101-154604.png" group-title="TOFFEE", SONY SPORTS TEN 1 HD 	
-
-https://crichd-live.top/live/toffee/file.php?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/sony_ten1_hd_576/sony_ten1_hd_576.m3u8?bitrate=1000000&channel=sony_ten1_hd_576&gp_id=  
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/KvdXqZ0Z/20241101-154512.png" group-title="TOFFEE", SONY SPORTS TEN 2 HD 	
-
-https://crichd-live.top/live/toffee/file.php?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/sony_ten2_hd_576/sony_ten2_hd_576.m3u8?bitrate=1000000&channel=sony_ten2_hd_576&gp_id= 
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vmtpZ5bB/20241101-154423.png" group-title="TOFFEE", SONY SPORTS TEN 3 HD 	
-
-https://crichd-live.top/live/toffee/file.php?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/sony_ten3_hd_576/sony_ten3_hd_576.m3u8?bitrate=1000000&channel=sony_ten3_hd_576&gp_id=  
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/43sSqnVT/20241101-154358.png" group-title="TOFFEE", SONY SPORTS TEN 5 HD 	
-
-https://crichd-live.top/live/toffee/file.php?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/sony_six_hd_576/sony_six_hd_576.m3u8?bitrate=1000000&channel=sony_six_hd_576&gp_id= 
-
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>JadooBD<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-
 #EXTINF:-1 tvg-name="ATN Bangla" tvg-logo="https://edge01.iptv.digijadoo.net/static/atn_bangla.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",ATN Bangla
-
-https://edge01.iptv.digijadoo.net/live/atn_bangla/playlist.m3u8?md5=6POThRFNTVVleS5WK1VjmQ&expires=1730467378&user=d477246e9e724f81a011b847457e71c4 
-
+https://edge01.iptv.digijadoo.net/live/atn_bangla/playlist.m3u8?md5=6XTuFO0CqPAYtt2wbct_bg&expires=1730853605&user=d477246e9e724f81a011b847457e71c4  
 #EXTINF:-1 tvg-name="ATN News" tvg-logo="https://edge01.iptv.digijadoo.net/static/atn_news.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",ATN News
-
-https://edge01.iptv.digijadoo.net/live/atn_news/playlist.m3u8?md5=2T8VFaiy8DEP5_LGQIZ4cg&expires=1730467431&user=d477246e9e724f81a011b847457e71c4 
-
+https://edge01.iptv.digijadoo.net/live/atn_news/playlist.m3u8?md5=ob959giLOdEDG87yMun-yQ&expires=1730853632&user=d477246e9e724f81a011b847457e71c4  
 #EXTINF:-1 tvg-name="Al Jazeera English HD" tvg-logo="https://edge01.iptv.digijadoo.net/static/al_jazeera.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",Al Jazeera English HD
-
-https://tvs1.aynaott.com/bz/aljazeera/index.m3u8?hdnts=st=1730331472~exp=1730417872~acl=/prantoliv/*~data=182.48.67.94-WEB~hmac=037ac4da695e1fa8383e8a11c65578afba3b78dcfe7a26a8c3663b9b8c1ae064
-
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/aljazeera.stream/playlist.m3u8 
 #EXTINF:-1 tvg-name="Ananda TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/ananda_tv.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",Ananda TV
-
-https://tvs1.aynaott.com/bz/anandatv/index.m3u8?hdnts=st=1730331472~exp=1730417872~acl=/prantoliv/*~data=182.48.67.94-WEB~hmac=037ac4da695e1fa8383e8a11c65578afba3b78dcfe7a26a8c3663b9b8c1ae064 
-
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/playlist.m3u8 
 #EXTINF:-1 tvg-name="Arirang" tvg-logo="https://edge01.iptv.digijadoo.net/static/arirang.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",Arirang
-
-https://edge01.iptv.digijadoo.net/live/arirang/playlist.m3u8?md5=y2l3Dfa93DAary_MlisuLg&expires=1730467463&user=d477246e9e724f81a011b847457e71c4 
-
+https://edge01.iptv.digijadoo.net/live/arirang/playlist.m3u8?md5=JJ2_Khi1RGE7S1Ff40fROg&expires=1730853813&user=d477246e9e724f81a011b847457e71c4  
 #EXTINF:-1 tvg-name="Asian Tv" tvg-logo="https://edge01.iptv.digijadoo.net/static/asian_tv.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",Asian Tv
-
-https://edge01.iptv.digijadoo.net/live/asian_tv/playlist.m3u8?md5=m47CsTiq5vjPX1UTIXq1kA&expires=1730467497&user=d477246e9e724f81a011b847457e71c4 
-
+https://edge01.iptv.digijadoo.net/live/asian_tv/playlist.m3u8?md5=HZLZtWI4oNI8qer4cMP1eQ&expires=1730853837&user=d477246e9e724f81a011b847457e71c4  
 #EXTINF:-1 tvg-name="BBC Lifestyle" tvg-logo="https://edge01.iptv.digijadoo.net/static/bbc_lifestyle.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",BBC Lifestyle
-
 https://edge01.iptv.digijadoo.net/live/bbc_lifestyle/playlist.m3u8?md5=-dlfPWgSdonoP4Wv2I3l9g&expires=1730058744&user=d477246e9e724f81a011b847457e71c4
-
 #EXTINF:-1 tvg-name="BBC World" tvg-logo="https://edge01.iptv.digijadoo.net/static/bbc_world.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",BBC World
-
-https://edge01.iptv.digijadoo.net/live/bbc_world/playlist.m3u8?md5=XzT-ZeOenhWWwWlWItAaNQ&expires=1730467521&user=d477246e9e724f81a011b847457e71c4 
-
+https://edge01.iptv.digijadoo.net/live/bbc_world/playlist.m3u8?md5=3RwwUCW_fflwawNBdYclkg&expires=1730853894&user=d477246e9e724f81a011b847457e71c4  
 #EXTINF:-1 tvg-name="BTV World" tvg-logo="https://edge01.iptv.digijadoo.net/static/btv_world.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",BTV World
-
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/btvbd-office-sg.stream/playlist.m3u8 
-
+http://176.119.29.52/live.ts?channelId=44154&uid=13433&deviceMac=00:1A:79:00:97:A1  
 #EXTINF:-1 tvg-name="Bangla TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/bangla_tv.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",Bangla TV
-
 https://tvs1.aynaott.com/bz/banglatv/index.m3u8?hdnts=st=1730331472~exp=1730417872~acl=/prantoliv/*~data=182.48.67.94-WEB~hmac=037ac4da695e1fa8383e8a11c65578afba3b78dcfe7a26a8c3663b9b8c1ae064  
-
 #EXTINF:-1 tvg-name="Bangla Vision" tvg-logo="https://edge01.iptv.digijadoo.net/static/bangla_vision.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",Bangla Vision
-
-https://tvs2.aynaott.com/bz/banglavision/index.m3u8?hdnts=st=1730331472~exp=1730417872~acl=/prantoliv/*~data=182.48.67.94-WEB~hmac=037ac4da695e1fa8383e8a11c65578afba3b78dcfe7a26a8c3663b9b8c1ae064
-
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/banglav000.stream/playlist.m3u8 
 #EXTINF:-1 tvg-name="Bijoy TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/bijoy_tv.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",Bijoy TV
-
-https://edge01.iptv.digijadoo.net/live/bijoy_tv/playlist.m3u8?md5=bEizPUJm6e_sOIFZOXc9vA&expires=1730467583&user=d477246e9e724f81a011b847457e71c4 
-
+https://edge01.iptv.digijadoo.net/live/bijoy_tv/playlist.m3u8?md5=lqPOgl4_s5M3cqRe8Q-cSw&expires=1730854220&user=d477246e9e724f81a011b847457e71c4  
 #EXTINF:-1 tvg-name="Boishakhi Tv" tvg-logo="https://edge01.iptv.digijadoo.net/static/boishakhi_tv.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",Boishakhi Tv
-
-https://edge01.iptv.digijadoo.net/live/boishakhi_tv/playlist.m3u8?md5=nCIb6vYWh6-NbuAJZF7DHg&expires=1730467610&user=d477246e9e724f81a011b847457e71c4 
-
+https://edge01.iptv.digijadoo.net/live/boishakhi_tv/playlist.m3u8?md5=raTffXWKKrq0eSx-9_Pmxw&expires=1730854264&user=d477246e9e724f81a011b847457e71c4  
 #EXTINF:-1 tvg-name="CBEEBIES Asia" tvg-logo="https://edge01.iptv.digijadoo.net/static/cbeebies_asia.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",CBEEBIES Asia
-
-https://edge01.iptv.digijadoo.net/live/cbeebies_asia/playlist.m3u8?md5=60tdQ-FuIfvaBCtheW-jEg&expires=1730467627&user=d477246e9e724f81a011b847457e71c4 
-
+https://edge01.iptv.digijadoo.net/live/cbeebies_asia/playlist.m3u8?md5=I7xaITALs8lcuZgEgsWauQ&expires=1730854283&user=d477246e9e724f81a011b847457e71c4  
 #EXTINF:-1 tvg-name="CGTN News" tvg-logo="https://edge01.iptv.digijadoo.net/static/cgtn_news.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",CGTN News
-
-https://edge01.iptv.digijadoo.net/live/cgtn_news/playlist.m3u8?md5=knsuxgwxown-OjmNR9I_GA&expires=1730467688&user=d477246e9e724f81a011b847457e71c4 
-
+https://edge01.iptv.digijadoo.net/live/cgtn_news/playlist.m3u8?md5=lsVmFz11xcd9kbsmOdm_Lg&expires=1730854291&user=d477246e9e724f81a011b847457e71c4  
 #EXTINF:-1 tvg-name="CNN" tvg-logo="https://edge01.iptv.digijadoo.net/static/cnn.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",CNN
-
-https://edge01.iptv.digijadoo.net/live/cnn/playlist.m3u8?md5=6nR_4_pYCfOC5xO8dy2s6g&expires=1730467715&user=d477246e9e724f81a011b847457e71c4 
-
+https://edge01.iptv.digijadoo.net/live/cnn/playlist.m3u8?md5=Tpma8lVBD2UOLwInFbUMCQ&expires=1730854328&user=d477246e9e724f81a011b847457e71c4  
 #EXTINF:-1 tvg-name="Channel 24" tvg-logo="https://edge01.iptv.digijadoo.net/static/channel_24.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",Channel 24
-
-https://edge01.iptv.digijadoo.net/live/channel_24/playlist.m3u8?md5=tuEEMInpKTKj7M7JSMtuEQ&expires=1730467738&user=d477246e9e724f81a011b847457e71c4 
-
+https://edge01.iptv.digijadoo.net/live/channel_24/playlist.m3u8?md5=ka-I-oemxRKXoSi6IgbGRQ&expires=1730854348&user=d477246e9e724f81a011b847457e71c4  
 #EXTINF:-1 tvg-name="Channel 9" tvg-logo="https://edge01.iptv.digijadoo.net/static/channel_9.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",Channel 9
-
-https://tvs1.aynaott.com/bz/channel9/index.m3u8?hdnts=st=1730331472~exp=1730417872~acl=/prantoliv/*~data=182.48.67.94-WEB~hmac=037ac4da695e1fa8383e8a11c65578afba3b78dcfe7a26a8c3663b9b8c1ae064 
-
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channel9hd.stream/playlist.m3u8 
 #EXTINF:-1 tvg-name="Channel I" tvg-logo="https://edge01.iptv.digijadoo.net/static/channel_i.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",Channel I
-
-https://edge01.iptv.digijadoo.net/live/channel_i/playlist.m3u8?md5=wjpz8lqX1gOXf0wIXu6Wag&expires=1730467764&user=d477246e9e724f81a011b847457e71c4 
-
+https://edge01.iptv.digijadoo.net/live/channel_i/playlist.m3u8?md5=J_FgbPc9X6i2Mf9em08TgA&expires=1730854413&user=d477246e9e724f81a011b847457e71c4  
 #EXTINF:-1 tvg-name="DBC News" tvg-logo="https://edge01.iptv.digijadoo.net/static/dbc_news.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",DBC News
-
-https://edge01.iptv.digijadoo.net/live/dbc_news/playlist.m3u8?md5=pDlBxaOcZDaxrfrCisaWqQ&expires=1730467798&user=d477246e9e724f81a011b847457e71c4 
-
+https://edge01.iptv.digijadoo.net/live/dbc_news/playlist.m3u8?md5=bqbC8XZQtAX_Gt57SPjH0g&expires=1730854424&user=d477246e9e724f81a011b847457e71c4  
 #EXTINF:-1 tvg-name="DW" tvg-logo="https://edge01.iptv.digijadoo.net/static/dw.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",DW
-
-https://edge01.iptv.digijadoo.net/live/dw/playlist.m3u8?md5=swsg2TdU-ztWbZp6UJ6_ww&expires=1730467831&user=d477246e9e724f81a011b847457e71c4
-
+https://edge01.iptv.digijadoo.net/live/dw/playlist.m3u8?md5=cEKsGa_zuZvFZ7KFgc3OLw&expires=1730854455&user=d477246e9e724f81a011b847457e71c4 
 #EXTINF:-1 tvg-name="Deepto TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/deepto_tv.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",Deepto TV
-
-https://byphdgllyk.gpcdn.net/hls/DeeptoTV/index.m3u8 
-
+https://byphdgllyk.gpcdn.net/hls/DeeptoTV/index.m3u8   
 #EXTINF:-1 tvg-name="Desh TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4CfF8DO73YRrwEy8BaKuc769Th5lZI9d5NVCVHoxEPWnGiqHtl35S2PC8&s=10" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",Desh TV
-
-https://edge01.iptv.digijadoo.net/live/desh_tv/playlist.m3u8?md5=HfLDG6nFwFKEVbU6C4aXcw&expires=1730467864&user=d477246e9e724f81a011b847457e71c4
-
+https://edge01.iptv.digijadoo.net/live/desh_tv/playlist.m3u8?md5=PmN7funKHDAXO275hrqb7Q&expires=1730854576&user=d477246e9e724f81a011b847457e71c4 
 #EXTINF:-1 tvg-name="Duronto TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/duronto_tv.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",Duronto TV
-
-https://tvs1.aynaott.com/bz/durontotv/index.m3u8?hdnts=st=1730331472~exp=1730417872~acl=/prantoliv/*~data=182.48.67.94-WEB~hmac=037ac4da695e1fa8383e8a11c65578afba3b78dcfe7a26a8c3663b9b8c1ae064 
-
+http://starshare.live:8080/live/127718262420/127744325447/433.ts 
 #EXTINF:-1 tvg-name="Ekattor TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/ekattor_tv.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",Ekattor TV
-
-https://edge01.iptv.digijadoo.net/live/ekattor_tv/playlist.m3u8?md5=4Ffk1nk489TrDVas0ugRsg&expires=1730467892&user=d477246e9e724f81a011b847457e71c4 
-
-#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/a9e0dd8a-9f03-4db5-821b-8788851ae0f2_180x180_057b61f7-0964-4dc0-95fd-741551613a6f.png" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡", Ekushey TV 
-
-https://ekusheyserver.com/etvlivesn.m3u8 
-
+https://edge01.iptv.digijadoo.net/live/ekattor_tv/playlist.m3u8?md5=IiER2eencQviVUbuQp6jSw&expires=1730854607&user=d477246e9e724f81a011b847457e71c4  
+#EXTINF:-1 tvg-name="Ekushey TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/ekushey_tv.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",Ekushey TV
+https://edge01.iptv.digijadoo.net/live/ekushey_tv/playlist.m3u8?md5=dWdyCyYlX47F8mWTNnS9Wg&expires=1730854617&user=d477246e9e724f81a011b847457e71c4 
 #EXTINF:-1 tvg-name="Fox Action Movies" tvg-logo="https://edge01.iptv.digijadoo.net/static/fox_action_movies_hd.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",Fox Action Movies
-
 https://edge01.iptv.digijadoo.net/live/fox_action_movies_hd/playlist.m3u8?md5=miORM5nhn0jdTd7UOXA-AQ&expires=1730058767&user=d477246e9e724f81a011b847457e71c4
-
 #EXTINF:-1 tvg-name="Gaan Bangla" tvg-logo="https://edge01.iptv.digijadoo.net/static/gaan_bangla.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",Gaan Bangla
-
-https://tvs1.aynaott.com/bz/gaanbangla/index.m3u8?hdnts=st=1730331472~exp=1730417872~acl=/prantoliv/*~data=182.48.67.94-WEB~hmac=037ac4da695e1fa8383e8a11c65578afba3b78dcfe7a26a8c3663b9b8c1ae064 
-
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gaanbangla-8-orgd.stream/playlist.m3u8 
 #EXTINF:-1 tvg-name="Gazi TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/gazi_tv.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",Gazi TV
-
-https://tvs2.aynaott.com/bz/gtv/index.m3u8?hdnts=st=1730331472~exp=1730417872~acl=/prantoliv/*~data=182.48.67.94-WEB~hmac=037ac4da695e1fa8383e8a11c65578afba3b78dcfe7a26a8c3663b9b8c1ae064 
-
+http://172.16.29.34/ontest1/ontest1/233  
 #EXTINF:-1 tvg-name="Independent TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/independent_tv.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",Independent TV
-
-https://edge01.iptv.digijadoo.net/live/independent_tv/playlist.m3u8?md5=w81oeDGyXfsT16E-FQyihQ&expires=1730468018&user=d477246e9e724f81a011b847457e71c4 
-
+https://edge01.iptv.digijadoo.net/live/independent_tv/playlist.m3u8?md5=lGlXt3e_4SyYEZcmgyJDEA&expires=1730854679&user=d477246e9e724f81a011b847457e71c4  
 #EXTINF:-1 tvg-name="Jamuna TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/jamuna_tv.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",Jamuna TV
-
-https://tvs1.aynaott.com/bz/jamunatv/index.m3u8?hdnts=st=1730331472~exp=1730417872~acl=/prantoliv/*~data=182.48.67.94-WEB~hmac=037ac4da695e1fa8383e8a11c65578afba3b78dcfe7a26a8c3663b9b8c1ae064 
-
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jamuna-test-sample-ok.stream/playlist.m3u8 
 #EXTINF:-1 tvg-name="MACAU Lotus" tvg-logo="https://edge01.iptv.digijadoo.net/static/macau_lotus.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",MACAU Lotus
-
-https://edge01.iptv.digijadoo.net/live/macau_lotus/playlist.m3u8?md5=8S7RsehzUQOZZtXZ47QYbg&expires=1730468033&user=d477246e9e724f81a011b847457e71c4 
-
+https://edge01.iptv.digijadoo.net/live/macau_lotus/playlist.m3u8?md5=6URPHJo6nJYrgIyDQyBAbA&expires=1730855050&user=d477246e9e724f81a011b847457e71c4  
 #EXTINF:-1 tvg-name="Maasranga" tvg-logo="https://edge01.iptv.digijadoo.net/static/maasranga.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",Maasranga
-
-https://edge01.iptv.digijadoo.net/live/maasranga/playlist.m3u8?md5=2uFD2U6U1lLF-SGoZCC9TQ&expires=1730468079&user=d477246e9e724f81a011b847457e71c4 
-
+https://edge01.iptv.digijadoo.net/live/maasranga/playlist.m3u8?md5=oEaXWz8hHHle-iGFb9L3Ng&expires=1730855059&user=d477246e9e724f81a011b847457e71c4  
 #EXTINF:-1 tvg-name="NHK World" tvg-logo="https://edge01.iptv.digijadoo.net/static/nhk_world.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",NHK World
-
 https://edge01.iptv.digijadoo.net/live/nhk_world/playlist.m3u8?md5=NZ40geKeP0aLrvTqCGgWrg&expires=1730058774&user=d477246e9e724f81a011b847457e71c4
-
 #EXTINF:-1 tvg-name="NTV" tvg-logo="https://edge01.iptv.digijadoo.net/static/ntv.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",NTV
-
-https://edge01.iptv.digijadoo.net/live/ntv/playlist.m3u8?md5=GsUejCbTkzIXHHuS-uGJng&expires=1730468098&user=d477246e9e724f81a011b847457e71c4 
-
+https://edge01.iptv.digijadoo.net/live/ntv/playlist.m3u8?md5=dhsfa9MjrDK-AA-AZZguUw&expires=1730855100&user=d477246e9e724f81a011b847457e71c4  
 #EXTINF:-1 tvg-name="Nagorik TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/nagorik_tv.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",Nagorik TV
-
-https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=Q_ZPnJqQxGpEzlgNWxL--w&expires=1730468136&user=d477246e9e724f81a011b847457e71c4 
-
+https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=eM_q0-yupVpyD9smbw43VA&expires=1730855109&user=d477246e9e724f81a011b847457e71c4  
 #EXTINF:-1 tvg-name="News 24 HD" tvg-logo="https://edge01.iptv.digijadoo.net/static/news_24_hd.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",News 24 HD
-
-https://tvs1.aynaott.com/bz/news24/index.m3u8?hdnts=st=1730331472~exp=1730417872~acl=/prantoliv/*~data=182.48.67.94-WEB~hmac=037ac4da695e1fa8383e8a11c65578afba3b78dcfe7a26a8c3663b9b8c1ae064 
-
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/news24local.stream/playlist.m3u8  
 #EXTINF:-1 tvg-name="Nexus TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/nexus_tv.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",Nexus TV
-
-https://edge01.iptv.digijadoo.net/live/nexus_tv/playlist.m3u8?md5=W-Z-0UUs7AXv3fez4a2dcQ&expires=1730468150&user=d477246e9e724f81a011b847457e71c4 
-
+https://edge01.iptv.digijadoo.net/live/nexus_tv/playlist.m3u8?md5=7tfA4Z44j9HAsUILcw-vsQ&expires=1730855267&user=d477246e9e724f81a011b847457e71c4  
 #EXTINF:-1 tvg-name="Quran TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/quran_tv.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",Quran TV
-
-https://edge01.iptv.digijadoo.net/live/quran_tv/playlist.m3u8?md5=XCkTT4PKu8ag21AMdis5jg&expires=1730058779&user=d477246e9e724f81a011b847457e71c4
-
+https://edge01.iptv.digijadoo.net/live/quran_tv/playlist.m3u8?md5=EBD46fS4AC0i-aGgqqzimA&expires=1730855278&user=d477246e9e724f81a011b847457e71c4 
 #EXTINF:-1 tvg-name="RT English" tvg-logo="https://edge01.iptv.digijadoo.net/static/rt_english.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",RT English
-
 https://edge01.iptv.digijadoo.net/live/rt_english/playlist.m3u8?md5=vgF2JWBqQ63SEmKq47wh6g&expires=1730058780&user=d477246e9e724f81a011b847457e71c4
-
 #EXTINF:-1 tvg-name="RTV" tvg-logo="https://edge01.iptv.digijadoo.net/static/rtv.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",RTV
-
-https://edge01.iptv.digijadoo.net/live/rtv/playlist.m3u8?md5=55xZ4V-QJF3HqXo2Ybl28Q&expires=1730468196&user=d477246e9e724f81a011b847457e71c4 
-
+https://edge01.iptv.digijadoo.net/live/rtv/playlist.m3u8?md5=Cbb5ziE5Uxru31oeMUGHMg&expires=1730855312&user=d477246e9e724f81a011b847457e71c4  
 #EXTINF:-1 tvg-name="SA TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/sa_tv.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",SA TV
-
-https://edge01.iptv.digijadoo.net/live/sa_tv/playlist.m3u8?md5=FUbZpLSKQe9WKShBPBAopQ&expires=1730468205&user=d477246e9e724f81a011b847457e71c4 
-
+https://edge01.iptv.digijadoo.net/live/sa_tv/playlist.m3u8?md5=0ackznzY4tcpgBJNsRmy9Q&expires=1730855321&user=d477246e9e724f81a011b847457e71c4  
 #EXTINF:-1 tvg-name="Somoy News" tvg-logo="https://edge01.iptv.digijadoo.net/static/somoy_news.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",Somoy News
-
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/somoyt000011226615544544.stream/playlist.m3u8 
-
+https://edge01.iptv.digijadoo.net/live/somoy_news/playlist.m3u8?md5=OQMyaplA3ZJ-QvKt9w6VUg&expires=1730855364&user=d477246e9e724f81a011b847457e71c4  
 #EXTINF:-1 tvg-name="T Sports HD" tvg-logo="https://edge01.iptv.digijadoo.net/static/t_sports.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",T Sports HD
-
-https://tvs2.aynaott.com/bz/tsportshd/index.m3u8?hdnts=st=1730331472~exp=1730417872~acl=/prantoliv/*~data=182.48.67.94-WEB~hmac=037ac4da695e1fa8383e8a11c65578afba3b78dcfe7a26a8c3663b9b8c1ae064  
-
+https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=R9QE_jTESG3rhIQk-AcxhQ&expires=1730855373&user=d477246e9e724f81a011b847457e71c4 
 #EXTINF:-1 tvg-name="Zee Bangla"  tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",Zee Bangla
-
-https://edge01.iptv.digijadoo.net/live/zee_bangla/playlist.m3u8?md5=eAADQEU_qBGjwiKcmqKj7w&expires=1730468248&user=d477246e9e724f81a011b847457e71c4 
-
+https://edge01.iptv.digijadoo.net/live/zee_bangla/playlist.m3u8?md5=7P3h1ZAkqhAEaQoF9snnMA&expires=1730855407&user=d477246e9e724f81a011b847457e71c4  
 #EXTINF:-1 tvg-name="Zee Cinema" tvg-logo="https://edge01.iptv.digijadoo.net/static/zee_cinema.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",Zee Cinema
-
-https://edge01.iptv.digijadoo.net/live/zee_cinema_hd/playlist.m3u8?md5=_O8HlKvY7JU2gTQP4EnBXw&expires=1730468277&user=d477246e9e724f81a011b847457e71c4 
-
+https://edge01.iptv.digijadoo.net/live/zee_cinema_hd/playlist.m3u8?md5=26YSE5cLrrp7RBmzaNsdRg&expires=1730855416&user=d477246e9e724f81a011b847457e71c4  
 #EXTINF:-1 tvg-name="Zee TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/zee_tv.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",Zee TV
-
-https://edge01.iptv.digijadoo.net/live/zee_tv/playlist.m3u8?md5=hE6tLTr8hrU9KY8pZTzpBg&expires=1730468286&user=d477246e9e724f81a011b847457e71c4 
-
-
-
+https://edge01.iptv.digijadoo.net/live/zee_tv/playlist.m3u8?md5=o2p4lWw0TVHXSSxF0gO0bA&expires=1730855446&user=d477246e9e724f81a011b847457e71c4 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>JagoBD<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/asiantv.jpg?x91288" group-title="JagoBD",Asian TV 
