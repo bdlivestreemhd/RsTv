@@ -1,5 +1,38 @@
 #EXTM3U 
 
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png" group-title="🆃🅾🅵🅵🅴🅴", SONY TEN 1
+https://toffee.iptvbd.xyz/api/sony_ten1_hd.m3u8 
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png" group-title="🆃🅾🅵🅵🅴🅴", SONY TEN 2
+https://toffee.iptvbd.xyz/api/sony_ten2_hd.m3u8 
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2418/logo/240x240/mobile_logo_992280001666781086.png" group-title="🆃🅾🅵🅵🅴🅴", SONY TEN 3
+https://toffee.iptvbd.xyz/api/sony_ten3_hd.m3u8 
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png" group-title="🆃🅾🅵🅵🅴🅴", SONY TEN 5
+https://toffee.iptvbd.xyz/api/sony_six_hd.m3u8 
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/57/logo/240x240/mobile_logo_149299001666780350.png" group-title="🆃🅾🅵🅵🅴🅴", SONY ENTERTINMENT
+https://toffee.iptvbd.xyz/api/sony_entertainment.m3u8 
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/602/logo/240x240/mobile_logo_495351001666780441.png" group-title="🆃🅾🅵🅵🅴🅴", SONY ENTERTINMNT HD
+https://toffee.iptvbd.xyz/api/sony_entertainmnt_hd.m3u8 
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/352/logo/240x240/mobile_logo_612341001666782969.png" group-title="🆃🅾🅵🅵🅴🅴", SONY MAX
+https://toffee.iptvbd.xyz/api/sony_max.m3u8 
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/641/logo/240x240/mobile_logo_440775001666782769.png" group-title="🆃🅾🅵🅵🅴🅴", SONY MAX HD
+https://toffee.iptvbd.xyz/api/set_max_hd.m3u8 
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/367/logo/115x115/mobile_logo_886909001563629905.png" group-title="🆃🅾🅵🅵🅴🅴", B4U MUSIC
+https://toffee.iptvbd.xyz/api/b4umusic.m3u8 
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/343/logo/240x240/mobile_logo_496322001666780228.png" group-title="🆃🅾🅵🅵🅴🅴", SONY AATH
+https://toffee.iptvbd.xyz/api/sony_aath.m3u8 
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2420/logo/240x240/mobile_logo_688156001666785674.png" group-title="🆃🅾🅵🅵🅴🅴", SONY SAB HD
+https://toffee.iptvbd.xyz/api/sony_sab_hd.m3u8 
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/353/logo/240x240/mobile_logo_044841001666779831.png" group-title="🆃🅾🅵🅵🅴🅴", SONY MAX 2
+https://toffee.iptvbd.xyz/api/sony_max_2.m3u8 
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2422/logo/240x240/mobile_logo_037670001666785867.png" group-title="🆃🅾🅵🅵🅴🅴", SONY WAH
+https://toffee.iptvbd.xyz/api/sony_wah.m3u8 
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/670/logo/240x240/mobile_logo_363688001655891620.png" group-title="🆃🅾🅵🅵🅴🅴", SONY BBC EARTH
+https://toffee.iptvbd.xyz/api/sony_bbc_earth_hd.m3u8 
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2419/logo/240x240/mobile_logo_287412001666784602.png" group-title="🆃🅾🅵🅵🅴🅴", SONY PIX HD
+https://toffee.iptvbd.xyz/api/sony_pix_hd.m3u8 
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/366/logo/240x240/mobile_logo_702115001663003759.png" group-title="🆃🅾🅵🅵🅴🅴", B4U MOVIES
+https://toffee.iptvbd.xyz/api/b4u_movies.m3u8 
+
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>JadooBD<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 #EXTINF:-1 tvg-name="ATN Bangla" tvg-logo="https://edge01.iptv.digijadoo.net/static/atn_bangla.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",ATN Bangla
 https://edge01.iptv.digijadoo.net/live/atn_bangla/playlist.m3u8?md5=6XTuFO0CqPAYtt2wbct_bg&expires=1730853605&user=d477246e9e724f81a011b847457e71c4  
