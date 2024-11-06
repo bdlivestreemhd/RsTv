@@ -330,7 +330,7 @@ KOLKATA Playlist
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3W9qiYW7toPvoJs-jvG0zhxuFFp1EQq1OfHnMWGVQSzeH3bXz78Md696q&s=10" group-title="KOLKATA", STAR JALSHA HD
 
-http://bd.ottbd.online:2082/live/rozario859/01327184859/24129.m3u8       
+http://tv.cloudcdn.me/live.ts?channelId=116&uid=7245&deviceMac=00:1A:79:B7:2F:EA        
 
 
 
@@ -360,7 +360,7 @@ https://edge01.iptv.digijadoo.net/live/zee_bangla/playlist.m3u8?md5=eAADQEU_qBGj
 
 #EXTINF:-1 tvg-logo="https://tvschedule.today/_next/image?url=https%3A%2F%2Fltsk-cdn.s3.eu-west-1.amazonaws.com%2Fjumpstart%2FTemp_Live%2Fcdn%2FHLS%2FChannel%2FimageContent-11970-j9luk5ag-v1%2FimageContent-11970-j9luk5ag-m1.png&w=256&q=75" group-title="KOLKATA", ZEE BANGLA HD
 
-http://103.205.133.71/ZeeBangla/index.m3u8  
+https://tvs2.aynaott.com/bz/ZeeBanglaHD/index.m3u8?hdnts=st=1730912351~exp=1730998751~acl=/prantoliv/*~data=182.48.67.95-WEB~hmac=01f9385d8198bac6f31b4e2f2f09a9b7465eea4840ecb264a19c77000d1fbe17   
 
 
 
@@ -408,7 +408,7 @@ http://xtv.ooo:8080/live/09448630/09888785/245897.ts
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LSGYOzg0wayccEIQSsL_4ij_cQhnOTd7n4MLixEWuLTBUujEBolmXlOKkzFpksRyb6SF" group-title="KOLKATA", SUN BANGLA
 
-http://bd.ottbd.online:2082/live/rozario859/01327184859/2184.m3u8  
+http://opplextv.cyou:8080/live/global/global/245906.ts   
 
 
 
