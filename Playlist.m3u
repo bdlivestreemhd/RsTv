@@ -358,17 +358,12 @@ https://catchup.yuppcdn.net/amazonv2/36/preview/zeebangla/master/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://tvschedule.today/_next/image?url=https%3A%2F%2Fltsk-cdn.s3.eu-west-1.amazonaws.com%2Fjumpstart%2FTemp_Live%2Fcdn%2FHLS%2FChannel%2FimageContent-11970-j9luk5ag-v1%2FimageContent-11970-j9luk5ag-m1.png&w=256&q=75" group-title="KOLKATA", ZEE BANGLA HD
-
-http://xtv.ooo:8080/810523/322522/245893    
+http://103.175.242.10:8080/23-ZeeBangla/tracks-v1a1/mono.m3u8     
 
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxR4JqxJWCEysdxDcAe1908DhYydO44UY9aQ&usqp=CAU" group-title="KOLKATA", COLORS BANGLA HD
-
-http://xtv.ooo:8080/810523/322522/245895     
-
-
-
+http://103.175.242.10:8080/25-Sonyaath/tracks-v1a1/mono.m3u8      
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Colors_Bangla_Cinema.png/897px-Colors_Bangla_Cinema.png" group-title="KOLKATA", COLORS BANGLA CINEMA
 
 http://xtv.ooo:8080/live/09448630/09888785/245897.ts        
@@ -469,7 +464,8 @@ http://172.16.29.34/ontest1/ontest1/181
 
 http://172.16.29.34/ontest1/ontest1/233 
 
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Vky8DySW/20241005-162825.png" group-title="SPORTS", Gazi Tv
+http://103.175.242.10:8080/gtv/tracks-v1a1/mono.m3u8 
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.tsports.com/assets/images/Logo%20tsports.svg",T Sports 
 
