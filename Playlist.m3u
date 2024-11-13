@@ -367,20 +367,12 @@ https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 
 KOLKATA Playlist 
 
-
-
-
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3W9qiYW7toPvoJs-jvG0zhxuFFp1EQq1OfHnMWGVQSzeH3bXz78Md696q&s=10" group-title="KOLKATA", STAR JALSHA HD
-
 http://tv.cloudcdn.me/live.ts?channelId=116&uid=7245&deviceMac=00:1A:79:B7:2F:EA        
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKfbaZZZ7rdDl1dY8uh97E8kcRiyfzmJNHRtErbVKPkYk2O2imNwT9DyI&s=10" group-title="KOLKATA", STAR JALSHA 
 http://103.175.242.10:8080/starjalsha/tracks-v1a1/mono.m3u8 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2Q7uapuWTAVRaD039RIlS1megRzg0sL3rT441eQJyIA7uvtkKBuIm4Yg&s=10" group-title="KOLKATA", JALSHA MOVIES
-
-http://tv.cloudcdn.me/live.ts?channelId=117&uid=5284&deviceMac=00:1A:79:17:C0:71  
-
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2Q7uapuWTAVRaD039RIlS1megRzg0sL3rT441eQJyIA7uvtkKBuIm4Yg&s=10" group-title="KOLKATA", JALSHA MOVIES SD
+https://iptv-live-play1.streamready.in/live/media11/jalsha_movies/dashc/jalsha_movies.mpd   
 #EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180623/qf/aazug0foc.webp" group-title="KOLKATA", JALSHA MOVIES HD
 http://bapatv.live:8080/jalshamovies/index.m3u8    
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyqP88B1WdwSUea521hUHm80BqYXyA_IHNv_jYTSbBYuiDxi2Wf2dhrZM&s=10" group-title="KOLKATA", ZEE BANGLA
