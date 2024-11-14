@@ -324,7 +324,8 @@ http://opplex.tv:8080/live/global/global/245914.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kyxby2Q/20240826-230739.png" group-title="BANGLADESH", NEWS 24 HD
 
 http://176.119.29.52/live.ts?channelId=107&uid=13603&deviceMac=00:1A:79:64:B4:A6
-
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/365/logo/240x240/mobile_logo_731536001673438371.png" group-title="BANGLADESH", NAGORIK TV BDIX
+https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=XAuxwXoHSb3j9ZvokH_mGg&expires=1731809647&user=d477246e9e724f81a011b847457e71c4  
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/365/logo/240x240/mobile_logo_731536001673438371.png" group-title="BANGLADESH", NAGORIK TV BDIX
 
 http://172.16.29.34/ontest1/ontest1/252     
