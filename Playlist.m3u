@@ -218,10 +218,12 @@ http://tv.cloudcdn.me:80/live.ts?channelId=81&uid=10016&deviceMac=00:1A:79:20:6F
 http://103.175.242.10:8080/atnnews/index.m3u8 
 
 #EXTINF:-1 tvg-id="e181c0f8" tvg-name="ATN Music" tvg-logo="https://i.postimg.cc/1txRrwW7/20240925-123659.png" group-title="BANGLADESH",ATN MUSIC
-https://static.jagobd.com.bd/live-orgin/atnmusic.stream/playlist.m3u8|referer=https://www.jagobd.com  
+https://static.jagobd.com.bd/live-
+orgin/atnmusic.stream/playlist.m3u8|referer=https://www.jagobd.com  
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W36VmKqt/20240925-124304.png" group-title="BANGLADESH", ATN ISLAMIC
-https://static.jagobd.com.bd/live-orgin/atnislamictv.stream/playlist.m3u8|referer=https://www.jagobd.com
+https://static.jagobd.com.bd/live-
+orgin/atnislamictv.stream/playlist.m3u8|referer=https://www.jagobd.com
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13z88RF4/20240925-081506.png" group-title="BANGLADESH", EKUSHEY TV HD
 
