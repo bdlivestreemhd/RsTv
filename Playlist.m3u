@@ -224,8 +224,7 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnislamictv.stream/playlist.m3u8  
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13z88RF4/20240925-081506.png" group-title="BANGLADESH", EKUSHEY TV HD
-
-http://103.175.242.10:8080/ekushe/tracks-v1a1/mono.m3u8
+https://tvs1.aynaott.com/bz/etv/index.m3u8?hdnts=st=1731752795~exp=1731839195~acl=/prantoliv/*~data=182.48.67.92-WEB~hmac=bbf134ae11cd49f835bdfe703188aa1b679e6552d897a2d78095892ebe99c8c3 
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/41/logo/240x240/mobile_logo_811238001673183089.png" group-title="BANGLADESH", NTV
 
@@ -300,8 +299,7 @@ http://103.175.242.10:8080/gtv2/tracks-v1a1/mono.m3u8
 http://103.175.242.10:8080/ekattor/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/25/logo/240x240/mobile_logo_913146001673185595.png" group-title="BANGLADESH", ASIAN TV HD
-
-https://mtlivestream.com/asian/ytlive/index.m3u8
+https://tvs1.aynaott.com/bz/etv/index.m3u8?hdnts=st=1731752795~exp=1731839195~acl=/prantoliv/*~data=182.48.67.92-WEB~hmac=bbf134ae11cd49f835bdfe703188aa1b679e6552d897a2d78095892ebe99c8c3 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dBbTPtQ/20240826-230616.png" group-title="BANGLADESH", SATV HD
 
@@ -349,9 +347,7 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 http://opplex.tv:8080/live/global/global/245949.ts
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/11841/logo/240x240/mobile_logo_456366001662385216.png" group-title="BANGLADESH", GLOBAL TV HD
-
-http://103.175.242.10/index.webm 
-
+https://tvs1.aynaott.com/bz/globaltvhd/index.m3u8?hdnts=st=1731752795~exp=1731839195~acl=/prantoliv/*~data=182.48.67.92-WEB~hmac=bbf134ae11cd49f835bdfe703188aa1b679e6552d897a2d78095892ebe99c8c3  
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QmPPKgg/20240826-231747.png" group-title="BANGLADESH", CHANNEL S HD
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/playlist.m3u8  
 
