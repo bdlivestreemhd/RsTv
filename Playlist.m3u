@@ -2,7 +2,7 @@
 # This M3U file is presented by @buddyxiptv
 # API credits go to @Byte-capsule
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/3726c298-6651-4139-a505-97fe9ee96430_180x180_47fc05ff-db30-4653-b445-57156643f9ce.png", BTV Chattogram
+#EXTINF:-1 tvg-id="" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/3726c298-6651-4139-a505-97fe9ee96430_180x180_47fc05ff-db30-4653-b445-57156643f9ce.png" group-titel="Ayna Ott", BTV Chattogram
 #EXTVLCOPT:http-referrer=https://watch.aynaott.com/
 https://tvs1.aynaott.com/bz/btvctg/index.m3u8?hdnts=st=1731911989~exp=1731955189~acl=/btvctg/*~data=182.48.67.95-WEB~hmac=21d6c1a38dd59b278b43788a2ca450fdffd4948c881e7e008b492a994dce3734
 #EXTINF:-1 tvg-id="" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/ae1abdc0-299e-4e38-a379-03cf02755414_180x180_f8b871aa-e538-4f02-a877-e30c966dbc30.png", Bangla Vision
