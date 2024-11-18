@@ -5,10 +5,10 @@
 #EXTINF:-1 tvg-id="" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/3726c298-6651-4139-a505-97fe9ee96430_180x180_47fc05ff-db30-4653-b445-57156643f9ce.png" group-titel="Ayna Ott", BTV Chattogram
 #EXTVLCOPT:http-referrer=https://watch.aynaott.com/
 https://tvs1.aynaott.com/bz/btvctg/index.m3u8?hdnts=st=1731911989~exp=1731955189~acl=/btvctg/*~data=182.48.67.95-WEB~hmac=21d6c1a38dd59b278b43788a2ca450fdffd4948c881e7e008b492a994dce3734
-#EXTINF:-1 tvg-id="" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/ae1abdc0-299e-4e38-a379-03cf02755414_180x180_f8b871aa-e538-4f02-a877-e30c966dbc30.png", Bangla Vision
+#EXTINF:-1 tvg-id="" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/ae1abdc0-299e-4e38-a379-03cf02755414_180x180_f8b871aa-e538-4f02-a877-e30c966dbc30.png" group-title="Ayna Ott", Bangla Vision
 #EXTVLCOPT:http-referrer=https://watch.aynaott.com/
 https://tvs2.aynaott.com/bz/banglavision/index.m3u8?hdnts=st=1731911989~exp=1731955189~acl=/banglavision/*~data=182.48.67.95-WEB~hmac=b44e41374a00089cf543a7404e041f267b98b291e2428699c8e5c6d6dd08e708
-#EXTINF:-1 tvg-id="" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e27d57d3-f17e-4e40-9cb4-7d5f1d577bda_180x180_0246741d-c4e5-4cad-967c-3ddbb5696260.png", Channel I
+#EXTINF:-1 tvg-id="" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e27d57d3-f17e-4e40-9cb4-7d5f1d577bda_180x180_0246741d-c4e5-4cad-967c-3ddbb5696260.png" group-title="Ayna Ott", Channel I
 #EXTVLCOPT:http-referrer=https://watch.aynaott.com/
 https://tvs2.aynaott.com/bz/channeli/index.m3u8?hdnts=st=1731911989~exp=1731955189~acl=/channeli/*~data=182.48.67.95-WEB~hmac=ec7f0275fd0ff330062761200c983e24b9874642c48f6d964ab583e92809ca99
 #EXTINF:-1 tvg-id="" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/a9e0dd8a-9f03-4db5-821b-8788851ae0f2_180x180_057b61f7-0964-4dc0-95fd-741551613a6f.png", Ekushey TV
