@@ -3,6 +3,7 @@
 # API credits go to @Byte-capsule
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/3726c298-6651-4139-a505-97fe9ee96430_180x180_47fc05ff-db30-4653-b445-57156643f9ce.png" group-titel="Ayna Ott", BTV Chattogram
+#EXTVLCOPT:http-referrer=https://watch.aynaott.com/ 
 https://tvs1.aynaott.com/bz/btvctg/index.m3u8?hdnts=st=1731911989~exp=1731955189~acl=/btvctg/*~data=182.48.67.95-WEB~hmac=21d6c1a38dd59b278b43788a2ca450fdffd4948c881e7e008b492a994dce3734
 #EXTINF:-1 tvg-id="" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/ae1abdc0-299e-4e38-a379-03cf02755414_180x180_f8b871aa-e538-4f02-a877-e30c966dbc30.png" group-title="Ayna Ott", Bangla Vision
 #EXTVLCOPT:http-referrer=https://watch.aynaott.com/
@@ -10,28 +11,28 @@ https://tvs2.aynaott.com/bz/banglavision/index.m3u8?hdnts=st=1731911989~exp=1731
 #EXTINF:-1 tvg-id="" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e27d57d3-f17e-4e40-9cb4-7d5f1d577bda_180x180_0246741d-c4e5-4cad-967c-3ddbb5696260.png" group-title="Ayna Ott", Channel I
 #EXTVLCOPT:http-referrer=https://watch.aynaott.com/
 https://tvs2.aynaott.com/bz/channeli/index.m3u8?hdnts=st=1731911989~exp=1731955189~acl=/channeli/*~data=182.48.67.95-WEB~hmac=ec7f0275fd0ff330062761200c983e24b9874642c48f6d964ab583e92809ca99
-#EXTINF:-1 tvg-id="" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/a9e0dd8a-9f03-4db5-821b-8788851ae0f2_180x180_057b61f7-0964-4dc0-95fd-741551613a6f.png", Ekushey TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/a9e0dd8a-9f03-4db5-821b-8788851ae0f2_180x180_057b61f7-0964-4dc0-95fd-741551613a6f.png" group-title="Ayna Ott", Ekushey TV
 #EXTVLCOPT:http-referrer=https://watch.aynaott.com/
 https://tvs1.aynaott.com/bz/etv/index.m3u8?hdnts=st=1731911989~exp=1731955189~acl=/etv/*~data=182.48.67.95-WEB~hmac=e565a6d716515d99180717dee4dbd3910d2a62b6ba6c28c5b7e7a3cee460b9f8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e7624c47-6598-4b68-9833-7102579ab0e0_180x180_a9967873-d8e5-4ce9-965c-a353761dc150.png", NTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e7624c47-6598-4b68-9833-7102579ab0e0_180x180_a9967873-d8e5-4ce9-965c-a353761dc150.png" group-title="Ayna Ott", NTV
 #EXTVLCOPT:http-referrer=https://watch.aynaott.com/
 https://tvs2.aynaott.com/bz/ntv/index.m3u8?hdnts=st=1731911989~exp=1731955189~acl=/ntv/*~data=182.48.67.95-WEB~hmac=f4b56a8c4abbf277ae3ea8ef6182e1328bfc0ba36005be75d68496a2fbb1c86b
-#EXTINF:-1 tvg-id="" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/5a1e2a64-898c-4538-b476-c437f48a0fd1_180x180_6af20fbc-6243-45a6-920e-954f942c82d6.png", Independent TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/5a1e2a64-898c-4538-b476-c437f48a0fd1_180x180_6af20fbc-6243-45a6-920e-954f942c82d6.png" group-title="Ayna Ott", Independent TV
 #EXTVLCOPT:http-referrer=https://watch.aynaott.com/
 https://tvs1.aynaott.com/bz/independenttv/index.m3u8?hdnts=st=1731911989~exp=1731955189~acl=/independenttv/*~data=182.48.67.95-WEB~hmac=a587b8fd57971b0d552524a19ee19ee48fb6547e4b3570e0792533f823de6a48
-#EXTINF:-1 tvg-id="" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/9c9b0d26-e64e-4ec8-abe6-562390b00b85_180x180_18e8601b-aa29-4df7-9c76-370ec81b70c4.png", ATN Bangla
+#EXTINF:-1 tvg-id="" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/9c9b0d26-e64e-4ec8-abe6-562390b00b85_180x180_18e8601b-aa29-4df7-9c76-370ec81b70c4.png" group-title="Ayna Ott", ATN Bangla
 #EXTVLCOPT:http-referrer=https://watch.aynaott.com/
 https://tvs2.aynaott.com/bz/atnbangla/index.m3u8?hdnts=st=1731911989~exp=1731955189~acl=/atnbangla/*~data=182.48.67.95-WEB~hmac=f7dc5ddf72e5fe71177806d9875467bd7f1a3a47a2ce05304b4c36a65d7c9c26
-#EXTINF:-1 tvg-id="" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e9c06234-edca-411b-bcf6-eace5c3b118a_180x180_57f3b595-85c1-4a51-a209-b26f3d492ee9.png", Boishakhi TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e9c06234-edca-411b-bcf6-eace5c3b118a_180x180_57f3b595-85c1-4a51-a209-b26f3d492ee9.png" group-title="Ayna Ott", Boishakhi TV
 #EXTVLCOPT:http-referrer=https://watch.aynaott.com/
 https://tvs1.aynaott.com/bz/boishakhitv/index.m3u8?hdnts=st=1731911989~exp=1731955189~acl=/boishakhitv/*~data=182.48.67.95-WEB~hmac=95427681658caaafa72e3a0cc589149aab0f62b729635682398e79bc3d59df1a
-#EXTINF:-1 tvg-id="" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/1426078c-f33c-4451-b2e3-73f6a6a5787e_180x180_45a97962-9bbb-4b3b-b589-6012ecd68599.png", Maasranga TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/1426078c-f33c-4451-b2e3-73f6a6a5787e_180x180_45a97962-9bbb-4b3b-b589-6012ecd68599.png" group-title="Ayna Ott", Maasranga TV
 #EXTVLCOPT:http-referrer=https://watch.aynaott.com/
 https://tvs1.aynaott.com/bz/maasrangatv/index.m3u8?hdnts=st=1731911989~exp=1731955189~acl=/maasrangatv/*~data=182.48.67.95-WEB~hmac=43be2ae7ebab9015e309674029633063dfc2195b2a8c70c87d9201fa61a3d167
-#EXTINF:-1 tvg-id="" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/7d1b157d-c68d-4e28-99b3-4e73ce0a6390_180x180_ddc72b39-a2e7-454e-b853-7eb9cd8a6729.png", Desh TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/7d1b157d-c68d-4e28-99b3-4e73ce0a6390_180x180_ddc72b39-a2e7-454e-b853-7eb9cd8a6729.png" group-title="Ayna Ott", Desh TV
 #EXTVLCOPT:http-referrer=https://watch.aynaott.com/
 https://tvs1.aynaott.com/bz/deshtv/index.m3u8?hdnts=st=1731911989~exp=1731955189~acl=/deshtv/*~data=182.48.67.95-WEB~hmac=f272ee9fb54ae6d082089a2856592e5ea47de3effb34e1e5f63ec5ff90d709ec
-#EXTINF:-1 tvg-id="" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/a259cc0d-630a-4ed1-b6d6-1d4006ed4815_180x180_49e7eff6-56c8-4b4b-8181-e2c14e4426c4.png", My TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/a259cc0d-630a-4ed1-b6d6-1d4006ed4815_180x180_49e7eff6-56c8-4b4b-8181-e2c14e4426c4.png"group-title="Ayna Ott", My TV
 #EXTVLCOPT:http-referrer=https://watch.aynaott.com/
 https://tvs1.aynaott.com/bz/mytv/index.m3u8?hdnts=st=1731911989~exp=1731955189~acl=/mytv/*~data=182.48.67.95-WEB~hmac=539c34716a7461a828045c9689f3fbe2d97fc04a6a003dc7592544d6d7fb26d5
 #EXTINF:-1 tvg-id="" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/a41f0388-395e-47ec-9db8-477a3fd09d05_180x180_95c38a1d-7287-4c2d-83fe-e2536874e546.png", ATN News
