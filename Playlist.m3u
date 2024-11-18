@@ -768,11 +768,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 ───────────────❥Movie Channel➽───────────────❥ 
 
 
-
-#EXTINF:-1 group-title="Movie Channel" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/e826ae113186785.Y3JvcCwxNDU5LDExNDEsMCwxNjI.png",Bongo Movies
-
-https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/bongo-op.m3u8?id=bongo-movies
-
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://i.ibb.co/kMkJDdz/moviebanglatv-logo.png",Movie Bangla
 
 http://alvetv.com/moviebanglatv/8080/index.m3u8
@@ -1388,33 +1383,26 @@ HINDI MOVIES Playlist
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="HINDI MOVIES", ZEE CINEMA HD
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11915-j9l5clzs-v1/imageContent-11915-j9l5clzs-m1.png" group-title="HINDI MOVIES", ZEE CINEMA HD
+http://bb.thenayeemparvez.xyz/ZeeCinemaFHD/index.m3u8 
 
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m3u8
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SGHD_Thumbnail-v2/SGHD_Thumbnail.png" group-title="HINDI MOVIES", STAR GOLD HD
+http://tv.cloudcdn.me/live.ts?channelId=196&uid=13433&deviceMac=00:1A:79:00:97:A1 
 
-#EXTINF:-1 tvg-logo="" group-title="HINDI MOVIES", STAR GOLD HD
-
-http://humsab.xyz/IN_STGOLD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vZXSqf0/20240816-214223.png" group-title="HINDI MOVIES", BHEJPURI CINEMA
-
+#EXTINF:-1 tvg-logo="https://tvschedule.today/_next/image?url=https%3A%2F%2Fltsk-cdn.s3.eu-west-1.amazonaws.com%2Fjumpstart%2FTemp_Live%2Fcdn%2FHLS%2FChannel%2FimageContent-768-j5m31cfs-v1%2FimageContent-768-j5m31cfs-m1.png&w=256&q=75" group-title="HINDI MOVIES", BHEJPURI CINEMA
 https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fYc6mkF/20240816-213259.png" group-title="HINDI MOVIES", FILAMCHI
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThT9bVPqXioNgqIgUGGe1fGPpyDjeDNHMbkQ&usqp=CAU" group-title="HINDI MOVIES", FILAMCHI
 https://epiconvh.s.llnwi.net/filamchi/master_864.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="HINDI MOVIES", SONY MAX HD
-
-http://tv.cloudcdn.me/live.ts?channelId=184&uid=13603&deviceMac=00:1A:79:64:B4:A6
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZLTaVnypzimCcF67yeI19Io5TY1dLILnRO7FRUBjWR6tJPB-R2ET9Z-AP&s=10" group-title="HINDI MOVIES", SONY MAX 
+http://tv.cloudcdn.me/live.ts?channelId=185&uid=13433&deviceMac=00:1A:79:00:97:A1 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h7T6MCW/20240803-110652.png" group-title="HINDI MOVIES", COLORS CINEPLEX HD
-
-http://tv.cloudcdn.me/live.ts?channelId=156&uid=5284&deviceMac=00:1A:79:17:C0:71
+https://livegeorouus.akamaized.net/090823/smil:colorscineplexus.smil/chunklist_b464000.m3u8?hdntl=exp=1731985098~acl=/*~data=hdntl~hmac=81c01a95bb5c34786746a95e1fb9314271b906db646dbcffa51430b76ced78c4 
 
 #EXTINF:-1 tvg-logo="" group-title="HINDI MOVIES", COLORS CINEPLEX BOLLYWOOD
-
-https://colorsscreen.com/live.php?id=1763&extension=.m3u8
+https://livegeorouus.akamaized.net/090823/smil:colorscineplexus.smil/chunklist_b464000.m3u8?hdntl=exp=1731985098~acl=/*~data=hdntl~hmac=81c01a95bb5c34786746a95e1fb9314271b906db646dbcffa51430b76ced78c4 
 
 #EXTINF:-1 tvg-logo="" group-title="HINDI MOVIES", COLORS CINEPLEX SUPERHIT HD
 
