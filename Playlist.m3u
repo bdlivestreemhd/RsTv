@@ -1159,11 +1159,7 @@ http://tv.cloudcdn.me/live.ts?channelId=40476&uid=13603&deviceMac=00:1A:79:64:B4
 http://tv.cloudcdn.me/live.ts?channelId=40476&uid=13603&deviceMac=00:1A:79:ED:10:29
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Sony_Yay_new.png", SONY YAY!
-
-http://xtv.ooo:8080/live/malik625538/digitalstore1year/26187.ts
-
-http://crystalott.net:80/live/BE2ZKMLVXR/I6WSJJXXZ1/3135.ts
-
+https://shounwifi.net/api/auto/toffee/576.php?id=sony_yay
 #EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png", Discovery Kids
 
 https://freeott.site/discovery/Discovery_Kids.m3u8
