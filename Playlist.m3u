@@ -415,7 +415,7 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 KOLKATA Playlist 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3W9qiYW7toPvoJs-jvG0zhxuFFp1EQq1OfHnMWGVQSzeH3bXz78Md696q&s=10" group-title="KOLKATA", STAR JALSHA HD
-http://stvlive.net:8080/starjalsha/index.m3u8
+http://testdns1.com:80/live/Sergiu@Oltean/nW8H2c5ZgU/282616.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKfbaZZZ7rdDl1dY8uh97E8kcRiyfzmJNHRtErbVKPkYk2O2imNwT9DyI&s=10" group-title="KOLKATA", STAR JALSHA 
 http://xtv.ooo:8080/live/Jawad1994/03112371534/245898.m3u8   
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2Q7uapuWTAVRaD039RIlS1megRzg0sL3rT441eQJyIA7uvtkKBuIm4Yg&s=10" group-title="KOLKATA", JALSHA MOVIES SD
@@ -426,9 +426,9 @@ http://172.16.29.2:8080/hls/jalshami.m3u8
 
 https://catchup.yuppcdn.net/amazonv2/36/preview/zeebangla/master/chunklist.m3u8   
 #EXTINF:-1 tvg-logo="https://tvschedule.today/_next/image?url=https%3A%2F%2Fltsk-cdn.s3.eu-west-1.amazonaws.com%2Fjumpstart%2FTemp_Live%2Fcdn%2FHLS%2FChannel%2FimageContent-11970-j9luk5ag-v1%2FimageContent-11970-j9luk5ag-m1.png&w=256&q=75" group-title="KOLKATA", ZEE BANGLA HD
-http://stvlive.net:8080/zeebangla/index.m3u8      
+http://testdns1.com:80/live/Sergiu@Oltean/nW8H2c5ZgU/282673.ts      
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxR4JqxJWCEysdxDcAe1908DhYydO44UY9aQ&usqp=CAU" group-title="KOLKATA", COLORS BANGLA HD
-http://stvlive.net:8080/colorsbangla/index.m3u8    
+http://testdns1.com:80/live/Sergiu@Oltean/nW8H2c5ZgU/282425.ts    
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Colors_Bangla_Cinema.png/897px-Colors_Bangla_Cinema.png" group-title="KOLKATA", COLORS BANGLA CINEMA
 http://xtv.ooo:8080/live/09448630/09888785/245897.ts        
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FszS7Qz0/20241123-181647.png" group-title="KOLKATA", TARA BANGLA CINEMA 
@@ -440,7 +440,7 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Sony_Aath_new.png" group-title="KOLKATA", SONY AATH HD
 http://stvlive.net:8080/sonyaath/tracks-v1/mono.m3u8   
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdAKm0zrEgiO9LVnzbx0KB3MOfAxiDAHVBia3v30ZRMV6CfsIqOt4RRwI&s=10" group-title="KOLKATA", ZEE BANGLA CINEMA
-http://xtv.ooo:8080/810523/322522/245897  
+http://testdns1.com:80/live/Sergiu@Oltean/nW8H2c5ZgU/282674.ts  
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LSGYOzg0wayccEIQSsL_4ij_cQhnOTd7n4MLixEWuLTBUujEBolmXlOKkzFpksRyb6SF" group-title="KOLKATA", SUN BANGLA
 http://103.175.242.10:8080/sunbangla/index.m3u8   
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/c4/Khushboo_Bangla_logo_%282016-present%29.png/revision/latest?cb=20210423103549" group-title="KOLKATA", KHUSHBOO BANGLA
@@ -546,21 +546,13 @@ http://tv.cloudcdn.me:80/live.ts?channelId=302&uid=8069&deviceMac=00:1A:79:4C:90
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdy4C4g5PPu91tbSZN9lgejySS9S5GhO04BThHfQpH&s",Willow Cricket Xtra
 
 https://webuit.mizhls.ru/lb/premium598/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png",Star Sports 1 HD
-
-http://xtv.ooo:8080/global/global/167575
-
-http://103.124.251.164:28015/play/a02w/index.m3u8
-
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/RhqAB/TV/refs/heads/main/Hard/SS1Hindi-removebg-preview.png",Star Sports 1 Hindi
-
-http://line.4k-beast.co:80/live/c0:23:8d:96:15:22/44D11F/63560.ts 
-
+http://line.4k-beast.co:80/live/c0:23:8d:96:15:22/44D11F/63560.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png",Star Sports 1 HD
+http://testdns1.com:80/live/Sergiu@Oltean/nW8H2c5ZgU/282622.ts
+http://103.124.251.164:28015/play/a02w/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/STAR_Sports_2_logo.png/revision/latest/scale-to-width-down/200?cb=20150719162835",Star Sports 2 HD
-
-http://xtv.ooo:8080/global/global/167576
-
+http://testdns1.com:80/live/Sergiu@Oltean/nW8H2c5ZgU/282623.ts
 http://line.4k-beast.co:80/live/c0:23:8d:96:15:22/44D11F/63540.ts
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/0/0e/%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0_%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%87%E0%A6%9F.png",Star Sports 3 
@@ -568,8 +560,7 @@ http://line.4k-beast.co:80/live/c0:23:8d:96:15:22/44D11F/63540.ts
 http://xtv.ooo:8080/global/global/167577
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Star-sports-select-1.png/revision/latest/scale-to-width-down/220?cb=20230128174436",Star Sports Select 1
-
-http://xtv.ooo:8080/live/98267/02727/109993.m3u8
+http://testdns1.com:80/live/Sergiu@Oltean/nW8H2c5ZgU/282625.ts
 
 http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451471.ts
 
