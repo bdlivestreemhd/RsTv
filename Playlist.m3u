@@ -473,14 +473,8 @@ http://172.16.29.34/ontest1/ontest1/181
 
 http://172.16.29.34/ontest1/ontest1/233 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Vky8DySW/20241005-162825.png" group-title="SPORTS", Gazi Tv
-http://103.175.242.10:8080/gtv/tracks-v1a1/mono.m3u8 
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.tsports.com/assets/images/Logo%20tsports.svg",T Sports 
-
-http://xtv.ooo:8080/live/malik625538/digitalstore1year/245901.ts
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.tsports.com/assets/images/Logo%20tsports.svg",T Sports Backup
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/rsn23Zwy/20241224-180346.jpg",T Sports Backup
 
 http://tv.cloudcdn.me/live.ts?channelId=98&uid=8164&deviceMac=00:1A:79:17:D4:A1
 
