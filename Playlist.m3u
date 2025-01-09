@@ -465,26 +465,20 @@ http://tv.cloudcdn.me/live.ts?channelId=113&uid=13433&deviceMac=00:1A:79:00:97:A
 
 SPORTS Playlist      
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PqtdhkF4/20241005-165038.png" group-title="SPORTS", T Sports BDIX
 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Bangladesh_Premier_League_2025_Logo.png", BPL LIVE 
+http://atg100.xyz:80/live/UL33K17/SYC4T9D/510487.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PqtdhkF4/20241005-165038.png" group-title="SPORTS", T Sports BDIX
 http://172.16.29.34/ontest1/ontest1/181 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GpJ9JQ6M/20241005-162825.png" group-title="SPORTS", GAZI TV HD BDIX
 http://172.16.29.34/ontest1/ontest1/233 
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GpJ9JQ6M/20241005-162825.png" group-title="SPORTS", GAZI TV HD
 http://xtv.ooo:8080/live/kamran800/800kamran/245901.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/rsn23Zwy/20241224-180346.jpg",T Sports Backup
-
-http://tv.cloudcdn.me/live.ts?channelId=98&uid=8164&deviceMac=00:1A:79:17:D4:A1
-
-http://103.190.85.38/hls/tsports.m3u8
-
-http://46.250.234.136:8080/live/Amjad/112233/2762.ts
-
-http://tv.cloudcdn.me/live.ts?channelId=48010&uid=16068&deviceMac=00:1A:79:ED:10:29
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/KXSPddd/20240827-010107.png",T Sports  BD VS SA
-
 https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/tsports/op.m3u8?id=live-02
 
 http://m1-max.dns-speedy.com:80/35F56F/50945D/756462
