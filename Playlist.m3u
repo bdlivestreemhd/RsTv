@@ -470,13 +470,20 @@ SPORTS Playlist
 http://atg100.xyz:80/live/UL33K17/SYC4T9D/510487.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PqtdhkF4/20241005-165038.png" group-title="SPORTS", T Sports BDIX
-http://172.16.29.34/ontest1/ontest1/181 
+http://atg100.xyz:80/live/UL33K17/SYC4T9D/510487.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GpJ9JQ6M/20241005-162825.png" group-title="SPORTS", GAZI TV HD BDIX
 http://172.16.29.34/ontest1/ontest1/233 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GpJ9JQ6M/20241005-162825.png" group-title="SPORTS", GAZI TV HD
 http://xtv.ooo:8080/live/kamran800/800kamran/245901.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuypzBEShURvsEbSXvJLqyquE3wIgDiam-V8TuBrExGdktfNg6_dgxlQN5&s=10" group-title="Grope Name", STAR SPORTS HINDI
+http://atg100.xyz:80/live/UL33K17/SYC4T9D/1090636.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXitSQRPpN36iWUzYW-RnLem8cft0oBQ0kVg&usqp=CAU" group-title="Grope Name", STAR SPORTS 1
+http://atg100.xyz:80/live/UL33K17/SYC4T9D/1090635.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX18TLdIRP-c60gk10UToa5nA5o0iauhQdSZ7G38pdkis2Sw2OJ58feKU&s=10" group-title="Grope Name", STAR SPORTS 2
+http://atg100.xyz:80/live/UL33K17/SYC4T9D/1090637.m3u8
 
 ───────────────❥Movie Channel➽───────────────❥
 
