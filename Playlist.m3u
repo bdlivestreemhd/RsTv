@@ -127,22 +127,14 @@ BANGLADESH Playlist
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/63/logo/240x240/mobile_logo_118855001673182388.png" group-title="BANGLADESH", BTV HD
 http://tv.cloudcdn.me/live.ts?channelId=44154&uid=16068&deviceMac=00:1A:79:ED:10:29
-
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/1/logo/240x240/mobile_logo_310000001673183767.png" group-title="BANGLADESH", BTV WORLD
-
-http://opplex.tv:8080/live/global/global/245922.ts
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8C9Qyhv3/20250113-095521.png" group-title="BANGLADESH", ASIAN TV
+https://static.jagobd.com.bd/live-orgin/asian-test-sample-ok-d.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/38/logo/240x240/mobile_logo_483871001656610198.png" group-title="BANGLADESH", ATN BANGLA 
-
-http://tv.cloudcdn.me:80/live.ts?channelId=81&uid=10016&deviceMac=00:1A:79:20:6F:F3      
-
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbd-8-org.stream/playlist.m3u8      
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/42/logo/240x240/mobile_logo_554709001657185722.png" group-title="BANGLADESH", ATN NEWS 
-
-http://103.175.242.10:8080/atnnews/index.m3u8 
-
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnws-sg.stream/playlist.m3u8 
 #EXTINF:-1 tvg-id="e181c0f8" tvg-name="ATN Music" tvg-logo="https://i.postimg.cc/1txRrwW7/20240925-123659.png" group-title="BANGLADESH",ATN MUSIC
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnmusic.stream/playlist.m3u8    
-
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnmusic.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W36VmKqt/20240925-124304.png" group-title="BANGLADESH", ATN ISLAMIC
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnislamictv.stream/playlist.m3u8  
 
@@ -336,11 +328,11 @@ http://172.16.29.34/ontest1/ontest1/233
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GpJ9JQ6M/20241005-162825.png" group-title="SPORTS", GAZI TV HD
 http://xtv.ooo:8080/live/kamran800/800kamran/245901.ts
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuypzBEShURvsEbSXvJLqyquE3wIgDiam-V8TuBrExGdktfNg6_dgxlQN5&s=10" group-title="Grope Name", STAR SPORTS HINDI
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuypzBEShURvsEbSXvJLqyquE3wIgDiam-V8TuBrExGdktfNg6_dgxlQN5&s=10" group-title="SPORTS", STAR SPORTS HINDI
 http://atg100.xyz:80/live/UL33K17/SYC4T9D/1090636.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXitSQRPpN36iWUzYW-RnLem8cft0oBQ0kVg&usqp=CAU" group-title="Grope Name", STAR SPORTS 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXitSQRPpN36iWUzYW-RnLem8cft0oBQ0kVg&usqp=CAU" group-title="SPORTS", STAR SPORTS 1
 http://atg100.xyz:80/live/UL33K17/SYC4T9D/1090635.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX18TLdIRP-c60gk10UToa5nA5o0iauhQdSZ7G38pdkis2Sw2OJ58feKU&s=10" group-title="Grope Name", STAR SPORTS 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX18TLdIRP-c60gk10UToa5nA5o0iauhQdSZ7G38pdkis2Sw2OJ58feKU&s=10" group-title="SPORTS", STAR SPORTS 2
 http://atg100.xyz:80/live/UL33K17/SYC4T9D/1090637.m3u8
 
 ───────────────❥Movie Channel➽───────────────❥
