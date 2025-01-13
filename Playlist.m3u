@@ -128,7 +128,7 @@ BANGLADESH Playlist
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/63/logo/240x240/mobile_logo_118855001673182388.png" group-title="BANGLADESH", BTV HD
 http://tv.cloudcdn.me/live.ts?channelId=44154&uid=16068&deviceMac=00:1A:79:ED:10:29
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8C9Qyhv3/20250113-095521.png" group-title="BANGLADESH", ASIAN TV
-https://static.jagobd.com.bd/live-orgin/asian-test-sample-ok-d.stream/playlist.m3u8
+https://static.jagobd.com.bd/live-orgin/asian-test-sample-ok-d.stream/playlist.m3u8|referer=https://www.jagobd.com
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/38/logo/240x240/mobile_logo_483871001656610198.png" group-title="BANGLADESH", ATN BANGLA 
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbd-8-org.stream/playlist.m3u8      
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/42/logo/240x240/mobile_logo_554709001657185722.png" group-title="BANGLADESH", ATN NEWS 
