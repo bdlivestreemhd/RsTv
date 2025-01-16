@@ -139,49 +139,30 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnislamictv.stream/playlist.m3u8  
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13z88RF4/20240925-081506.png" group-title="BANGLADESH", EKUSHEY TV HD
 https://ekusheyserver.com/etvlivesn.m3u8  
-
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/41/logo/240x240/mobile_logo_811238001673183089.png" group-title="BANGLADESH", NTV
-
-http://103.175.242.10:8080/ntv/tracks-v1a1/mono.m3u8  
-
+https://mafiatv.live/jagobd/jago.php?ferdos-id=ntvuk00332211.stream&e=.m3u8  
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/338/logo/240x240/mobile_logo_401499001655891091.png" group-title="BANGLADESH", RTV HD
-
-http://103.175.242.10:8080/rtv/tracks-v1a1/mono.m3u8 
-
+https://mafiatv.live/jagobd/jago.php?ferdos-id=rtv-sg.stream&e=.m3u8 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/3/logo/240x240/mobile_logo_694865001655890816.png" group-title="BANGLADESH", CHANNEL I HD
-
-http://103.175.242.10:8080/channeli/tracks-v1a1/mono.m3u8     
-
+https://mafiatv.live/jagobd/jago.php?ferdos-id=channeli-8-org.stream&e=.m3u8     
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/337/logo/240x240/mobile_logo_519481001656610377.png" group-title="BANGLADESH", BANGLA VISION HD
-
-http://opplex.tv:8080/live/global/global/245957.ts
-
+https://mafiatv.live/jagobd/jago.php?ferdos-id=banglav000.stream&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kGrT0TZW/Duronto.png" group-title="BANGLADESH", DURONTO TV
 http://tv.cloudcdn.me/live.ts?channelId=74553&uid=13433&deviceMac=00:1A:79:00:97:A1   
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/236/logo/240x240/mobile_logo_341242001655891063.png" group-title="BANGLADESH", BOISHAKHI TV HD
-https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
-
+https://mafiatv.live/jagobd/jago.php?ferdos-id=boishakhitv-org.stream&e=.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/39/logo/240x240/mobile_logo_569553001668421527.png" group-title="BANGLADESH", DESH TV
 http://tv.cloudcdn.me/live.ts?channelId=93&uid=13433&deviceMac=00:1A:79:00:97:A1 
-
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/339/logo/240x240/mobile_logo_897303001655891103.png" group-title="BANGLADESH", MY TV HD
-
 https://mytvbangla.com/0.m3u8
-
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/368/logo/240x240/mobile_logo_784215001656610543.png" group-title="BANGLADESH", MOHONA TV HD
-
 http://103.175.242.10:8080/mohona/tracks-v1a1/mono.m3u8 
-
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/374/logo/240x240/mobile_logo_179345001655891258.png" group-title="BANGLADESH", BIJOY TV HD
-
 http://opplex.tv:8080/live/global/global/245946.ts
-
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/65/logo/240x240/mobile_logo_703286001655891016.png" group-title="BANGLADESH", SOMOY TV HD
 https://app.ncare.live/live-orgin/somoyt000011226615544544.stream/playlist.m3u8 
-
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/40/logo/240x240/mobile_logo_819689001655890845.png" group-title="BANGLADESH", INDEPENDENT TV
-
-http://103.175.242.10:8080/independent/tracks-v1a1/mono.m3u8
+https://mafiatv.live/jagobd/jago.php?ferdos-id=independent-8-org.stream&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2yPdx9Wb/20240923-090202.png" group-title="BANGLADESH", MAASRANGA TV HD
 
