@@ -64,7 +64,7 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kyxby2Q/20240826-230739.png" group-title="BANGLADESH", NEWS 24 HD
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/news24local.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/365/logo/240x240/mobile_logo_731536001673438371.png" group-title="BANGLADESH", NAGORIK TV
-https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=XAuxwXoHSb3j9ZvokH_mGg&expires=1731809647&user=d477246e9e724f81a011b847457e71c4
+http://103.151.60.204/Nagorik-tv5.hoichoi24.com/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYX3XSue9rhiGV6WaihT1GtCq8279LVsbPiCWxK5Yg1amfDX7IqQBkZbFJ&s=10" group-title="BANGLADESH", DEEPTO TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8     
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiCFZN1gBNXYe61NVQbdQqzUgly2H2dVUIQcSA_SgJJmjLGk2ONfl08Esl&s=10" group-title="BANGLADESH", CB 24 TV
@@ -98,7 +98,7 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 KOLKATA Playlist :-
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3W9qiYW7toPvoJs-jvG0zhxuFFp1EQq1OfHnMWGVQSzeH3bXz78Md696q&s=10" group-title="KOLKATA", STAR JALSHA HD
-http://atg100.xyz/live/UL33K17/SYC4T9D/76204.m3u8   
+http://103.151.60.204/Star-Jolsha-HD/index.m3u8   
 #EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180623/qf/aazug0foc.webp" group-title="KOLKATA", JALSHA MOVIES HD
 http://atg100.xyz/live/UL33K17/SYC4T9D/76205.m3u8     
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyqP88B1WdwSUea521hUHm80BqYXyA_IHNv_jYTSbBYuiDxi2Wf2dhrZM&s=10" group-title="KOLKATA", ZEE BANGLA
@@ -143,13 +143,13 @@ SPORTS Playlist
 
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Bangladesh_Premier_League_2025_Logo.png", BPL LIVE 
-https://247stream.one/tv/tsportshd/stream.php?stream=https://live-cdn.tsports.com/live-02/master_1080.m3u8
+http://103.151.60.204/t-sports-tv5.hoichoi24.com/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PqtdhkF4/20241005-165038.png" group-title="SPORTS", T Sports BDIX
 http://atg100.xyz:80/live/UL33K17/SYC4T9D/510487.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GpJ9JQ6M/20241005-162825.png" group-title="SPORTS", GAZI TV HD 
-https://cdneu.ncare.live/gazi/gazitv249dd9ed1e/chunks.m3u8|Referer=https://gazitv.com/ 
+http://103.151.60.204/gtv-sports-tv5.hoichoi24.com/index.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GpJ9JQ6M/20241005-162825.png" group-title="SPORTS", GAZI TV HD
 http://xtv.ooo:8080/live/kamran800/800kamran/245901.ts
