@@ -268,13 +268,11 @@ https://live-hls-web-aje.getaj.net/AJE/04.m3u8
 SPORTS Playlist      
 
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Bangladesh_Premier_League_2025_Logo.png", BPL LIVE 
-https://247stream.one/tv/tsportshd/stream.php?stream=https://live-cdn.tsports.com/live-02/master_1080.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PqtdhkF4/20241005-165038.png" group-title="SPORTS", T Sports BDIX
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn7MyjWDob4ZOrzJcxSkb1pRPCRbfYctMAAg&s", BPL LIVE 
+https://tvcache1.iptv24bd.live/GAZI/index.m3u8?token=1117caf53cb3298477a8273400de750b64eb474b-48fb4b7734dac06a1aa22cc952dfa4f7-1738077758-1738066958&remote=no_check_ip
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PqtdhkF4/20241005-165038.png" group-title="Sports", T Sports BDIX
 http://atg100.xyz:80/live/UL33K17/SYC4T9D/510487.m3u8 
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/GpJ9JQ6M/20241005-162825.png" group-title="SPORTS", GAZI TV HD 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GpJ9JQ6M/20241005-162825.png" group-title="Sports", GAZI TV HD 
 https://cdneu.ncare.live/gazi/gazitv249dd9ed1e/chunks.m3u8|Referer=https://gazitv.com/
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/643115b9-65ab-4c34-8dd7-49597230504d_180x180_tsports.png" group-title="Sports",41.T SPORTS HD
 http://103.240.4.59:8080/tsports/index.m3u8
