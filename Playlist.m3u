@@ -3,7 +3,7 @@
 BANGLADESH Playlist :-
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTePR7NseLUmaLIC8UGoR5M9rcHOda4EZdzZQ&usqp=CAU" group-title="Cartoon",108.CARTOON NETWORK 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTePR7NseLUmaLIC8UGoR5M9rcHOda4EZdzZQ&usqp=CAU" group-title="TOFFEE",TOFFEE LIVE
 https://fredflix.fun/newtoffee/match-1.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/63/logo/240x240/mobile_logo_118855001673182388.png" group-title="BANGLADESH", BTV HD
 http://tv.cloudcdn.me/live.ts?channelId=44154&uid=16068&deviceMac=00:1A:79:ED:10:29
@@ -581,7 +581,7 @@ https://wildearth-roku.amagi.tv/masterR720P.m3u8
 
 CARTON CHANNEL 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="Cartoon",108.CARTOON NETWORK 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="Cartoon",Duronto Tv
 https://fredflix.fun/bdix2/live.php?cid=carton-duronto&e=.m3u8
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/db363850-ad01-4b64-9790-b3f7cc793513_180x180_Cartoon-Network.jpg" group-title="Cartoon",108.CARTOON NETWORK 
 https://colorsscreen.com/live.php?id=816&extension=.m3u8|Referer=https://colorsscreen.com/
