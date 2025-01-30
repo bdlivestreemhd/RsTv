@@ -123,7 +123,7 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Sony_Aath_new.png" group-title="KOLKATA", SONY AATH HD
 https://fredflix.fun/bdix1/live.php?ferdos=38&e=.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LSGYOzg0wayccEIQSsL_4ij_cQhnOTd7n4MLixEWuLTBUujEBolmXlOKkzFpksRyb6SF" group-title="KOLKATA", SUN BANGLA
-http://103.175.242.10:8080/sunbangla/index.m3u8   
+https://mycdn.tamilultratv.com/live.m3u8?chunks=fde70923a5f003591dbf855be5c8b32896a837e7d73a963acface3ba870abed3f977847f7a6e8156db57cf4dfc9c6576a711b4b4f8484862f3b8731f321a25f913860bf300d553868b13002a15cd6f3c0d5db9e8305920f9f7003cf5dbf0b81c4afcabca19f67455353c7f532db54e0af23854d5b7a007230c9d1f400bb3f634c45cc07c309411f96cae5540a3b4dead17049cbf5a0539ee3dd78ef4b4fea5fa7d2def493a260fc8de5cfb00814970e10e07ec788cdd4a5ab589b5124eef7b7981ad37562efab56ee79eefb2d960b9c0c72ed821247fbb4f857a4e1d00f84cfc3f6c4910dac3e064c70e6df4fa772480&vtoken=   
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/c4/Khushboo_Bangla_logo_%282016-present%29.png/revision/latest?cb=20210423103549" group-title="KOLKATA", KHUSHBOO BANGLA
 https://cdn3.pishow.tv/live/283/master.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSufDrSWBZBTCi8dVIuE3Dz1JPqA49Y79Ui1t2XFfwffnyttteTQ4zsTZo&s=10" group-title="KOLKATA", ENTEER TEN BANGLA
