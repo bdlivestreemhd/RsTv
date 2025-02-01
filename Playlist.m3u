@@ -111,7 +111,9 @@ http://suprino.xyz:80/live/W8MEP61/2X2H702/76179.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyqP88B1WdwSUea521hUHm80BqYXyA_IHNv_jYTSbBYuiDxi2Wf2dhrZM&s=10" group-title="KOLKATA", ZEE BANGLA
 https://catchup.yuppcdn.net/amazonv2/36/preview/zeebangla/master/chunklist.m3u8   
 #EXTINF:-1 tvg-logo="https://tvschedule.today/_next/image?url=https%3A%2F%2Fltsk-cdn.s3.eu-west-1.amazonaws.com%2Fjumpstart%2FTemp_Live%2Fcdn%2FHLS%2FChannel%2FimageContent-11970-j9luk5ag-v1%2FimageContent-11970-j9luk5ag-m1.png&w=256&q=75" group-title="KOLKATA", ZEE BANGLA HD
-https://cdn.hoichoi24.com/Zee-Bangla/video.m3u8  
+https://cdn.hoichoi24.com/Zee-Bangla/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XvD5ZgTH/Sangeet-Bangla.png" group-title="KOLKATA", SANGEET BANGLA
+http://suprino.xyz:80/live/W8MEP61/2X2H702/76190.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdAKm0zrEgiO9LVnzbx0KB3MOfAxiDAHVBia3v30ZRMV6CfsIqOt4RRwI&s=10" group-title="KOLKATA", COLORS BANGLA CINEMA
 https://mycdn.tamilultratv.com/live.m3u8?chunks=fde70923a5f003591dbf855be5c8b32896a837e7d73a963acface3ba870abed382bb271ac68c3bf96ac9b99b068bfe924021f0a25f0ee75aae4a94996995005de4cdee463d36a6b612a68f33a2a70da727e9f24405d02ccd59a01b6a837c7c4e79b6077fedeee4b4a7492e621cfd98ccc0876d92caff1711d4868f4156c39f352c795537ed16b942ce8b2d54e95a9a2113846f49342791f9eaa474db99978321141790309cf3d9b728b7a4bf7409a19cd6bd2377b4646eaf627319995c906b911a576b6410161229b7ec4eb523a76c1f28f1faa5245f06f76abf3621e60170c0efd63ba2acba5fb71eaa8af7dc096312fb2e9308c0068475465479fbc239832b&vtoken=
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FszS7Qz0/20241123-181647.png" group-title="KOLKATA", TARA BANGLA CINEMA 
@@ -121,9 +123,9 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCGmDpPUuTlswQS_uSQZLh-sV81n6B1oxtOt4IkujBZwTJTvrwLA5OYi4&s=10" group-title="KOLKATA", BANGLA PLUS
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Sony_Aath_new.png" group-title="KOLKATA", SONY AATH HD
-https://fredflix.fun/a/rajpondit/tf/live.php?id=sonyaath&e=.m3u8
+http://suprino.xyz:80/live/W8MEP61/2X2H702/78972.ts
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LSGYOzg0wayccEIQSsL_4ij_cQhnOTd7n4MLixEWuLTBUujEBolmXlOKkzFpksRyb6SF" group-title="KOLKATA", SUN BANGLA
-https://mycdn.tamilultratv.com/live.m3u8?chunks=fde70923a5f003591dbf855be5c8b32896a837e7d73a963acface3ba870abed3f977847f7a6e8156db57cf4dfc9c6576a711b4b4f8484862f3b8731f321a25f913860bf300d553868b13002a15cd6f3c0d5db9e8305920f9f7003cf5dbf0b81c4afcabca19f67455353c7f532db54e0af23854d5b7a007230c9d1f400bb3f634c45cc07c309411f96cae5540a3b4dead17049cbf5a0539ee3dd78ef4b4fea5fa7d2def493a260fc8de5cfb00814970e10e07ec788cdd4a5ab589b5124eef7b7981ad37562efab56ee79eefb2d960b9c0c72ed821247fbb4f857a4e1d00f84cfc3f6c4910dac3e064c70e6df4fa772480&vtoken=   
+http://suprino.xyz:80/live/W8MEP61/2X2H702/510486.ts   
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/c4/Khushboo_Bangla_logo_%282016-present%29.png/revision/latest?cb=20210423103549" group-title="KOLKATA", KHUSHBOO BANGLA
 https://cdn3.pishow.tv/live/283/master.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSufDrSWBZBTCi8dVIuE3Dz1JPqA49Y79Ui1t2XFfwffnyttteTQ4zsTZo&s=10" group-title="KOLKATA", ENTEER TEN BANGLA
