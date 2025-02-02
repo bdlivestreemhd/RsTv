@@ -1059,27 +1059,3 @@ https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/112.mp3
 https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/113.mp3
 #EXTINF:-1 tvg-logo="https://iili.io/2ZLJLCl.webp" group-title="Quran.com", An-Nasr
 https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/114.mp3
-###Radio
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ry42Nhk/1000010471.png" group-title="Islamic", Quran - Abdurrahmaan As-Sudais
-https://download.quranicaudio.com/qdc/abdurrahmaan_as_sudais/murattal/96.mp3
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ry42Nhk/1000010471.png" group-title="Bangladeshi", Radio Padma
-http://cassini.shoutca.st:9109/radiopadma.mp3
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ry42Nhk/1000010471.png" group-title="Indian", Spice FM
-https://stream.spicefmbd.com/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ry42Nhk/1000010471.png" group-title="Indian", Sayaji FM
-https://sayajifm.radioca.st/stream/;?1707488287650
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ry42Nhk/1000010471.png" group-title="Islamic", Arabi
-http://www.islamicpath.net:9898/stream.mp3
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ry42Nhk/1000010471.png" group-title="Bangladeshi", Bhumi
-https://listen.openstream.co/5013/audio
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ry42Nhk/1000010471.png" group-title="Islamic", Radio Baksho
-https://str3.openstream.co/1703?aw_0_1st.collectionid%3D5013%26stationId%3D5013%26publisherId%3D1727%26k%3D1729624595
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ry42Nhk/1000010471.png" group-title="Islamic", Voice of Islam
-http://voiceofislam.appsunder.com:8000/voiceofislam.mp3
