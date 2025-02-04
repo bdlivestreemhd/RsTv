@@ -109,19 +109,20 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 
 
 KOLKATA Playlist :-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Star_Jalsha_logo_2023.png/640px-Star_Jalsha_logo_2023.png" group-title="KOLKATA", STAR JALSHA
+http://humsab.xyz/IN_JALSHAS/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3W9qiYW7toPvoJs-jvG0zhxuFFp1EQq1OfHnMWGVQSzeH3bXz78Md696q&s=10" group-title="KOLKATA", STAR JALSHA HD
 https://cdn.hoichoi24.com/INBD-STAR-JALSHA-hoichoi24.com/index.m3u8   
 #EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180623/qf/aazug0foc.webp" group-title="KOLKATA", JALSHA MOVIES HD
 http://atg100.xyz/live/UL33K17/SYC4T9D/76205.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaO55xyH_7Tc6ixS8iIowp2cyesY-dg3Hf9GqXbMbZqtp-eocMh1cIfY5k&s=10" group-title="KOLKATA", JALSHA MOVIES SD
-https://fredflix.fun/bdix2/live.php?cid=Jolsha-Movies&e=.m3u8
+http://humsab.xyz/IN_JALSHAMOVIES/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxR4JqxJWCEysdxDcAe1908DhYydO44UY9aQ&usqp=CAU" group-title="KOLKATA", COLORS BANGLA HD
 http://extraott-iptv.com:88/live/0229477349/8104258135/400162502.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyqP88B1WdwSUea521hUHm80BqYXyA_IHNv_jYTSbBYuiDxi2Wf2dhrZM&s=10" group-title="KOLKATA", ZEE BANGLA
 https://catchup.yuppcdn.net/amazonv2/36/preview/zeebangla/master/chunklist.m3u8   
 #EXTINF:-1 tvg-logo="https://tvschedule.today/_next/image?url=https%3A%2F%2Fltsk-cdn.s3.eu-west-1.amazonaws.com%2Fjumpstart%2FTemp_Live%2Fcdn%2FHLS%2FChannel%2FimageContent-11970-j9luk5ag-v1%2FimageContent-11970-j9luk5ag-m1.png&w=256&q=75" group-title="KOLKATA", ZEE BANGLA HD
-http://extraott-iptv.com:88/live/0229477349/8104258135/400248274.ts
+http://humsab.xyz/IN_ZEBS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XvD5ZgTH/Sangeet-Bangla.png" group-title="KOLKATA", SANGEET BANGLA
 http://suprino.xyz:80/live/W8MEP61/2X2H702/76190.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdAKm0zrEgiO9LVnzbx0KB3MOfAxiDAHVBia3v30ZRMV6CfsIqOt4RRwI&s=10" group-title="KOLKATA", COLORS BANGLA CINEMA
@@ -155,10 +156,8 @@ http://tv.cloudcdn.me/live.ts?channelId=113&uid=13433&deviceMac=00:1A:79:00:97:A
 NEWS CHANNEL 
 
 
-#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e669d5a1-5d1b-4583-9832-aff70bdfd893_180x180_e18f5d1e-879c-44e1-b50f-863b724b665d.png" group-title="News",1.BTV HD
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e669d5a1-5d1b-4583-9832-aff70bdfd893_180x180_e18f5d1e-879c-44e1-b50f-863b724b665d.png" group-title="News", BTV HD
 http://extraott-iptv.com:88/live/0229477349/8104258135/400200118.ts
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/btvbd-office-sg.stream/playlist.m3u8
-http://xtv.ooo:8080/kamran800/800kamran/245930.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/2/2c/%E0%A6%AC%E0%A6%BF%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF_%E0%A6%A8%E0%A6%BF%E0%A6%89%E0%A6%9C%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png/220px-%E0%A6%AC%E0%A6%BF%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF_%E0%A6%A8%E0%A6%BF%E0%A6%89%E0%A6%9C%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png" group-title="News", BTV NEWS 
 http://extraott-iptv.com:88/live/0229477349/8104258135/400200117.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SQ2BkZ41/Sangsad-Television.png" group-title="News",2.Sangsad TV
