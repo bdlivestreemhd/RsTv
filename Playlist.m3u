@@ -7,7 +7,7 @@ https://cdn.kariratv.site/Gazi/index.m3u8
 https://news.otapp.store/foasu/vstream.php?id=dabc1264521d&e=.m3u8
 https://linkchur.top/tv/tf/live.php?id=match-2&e=.m3u8|Referer=https://linkchur.top/
 #EXTINF:-1 group-title="LIVE EVEN " tvg-logo="https://i.postimg.cc/tJRjNVcv/20250219-190226.png", Champion Trophy LIVE
-http://server.top10bhaluka.com:100/sii/stream.m3u8?id=T-SPORTS&e=.m3u8
+http://kst.moonplex.net:8080/CH2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d0jP3FD3/20250223-204353.png" tvg-id="<built-in function id>" group-title="LIVE EVEN",Willow Sports
 http://161.248.188.101/willow_xtra/index.m3u8
 
@@ -146,9 +146,9 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 
 KOLKATA Playlist :-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Star_Jalsha_logo_2023.png/640px-Star_Jalsha_logo_2023.png" group-title="KOLKATA", STAR JALSHA
-https://lifetvbd.xyz:8880/live/omor20/omor20/7982.m3u8
+http://kst.moonplex.net:8080/CH3/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3W9qiYW7toPvoJs-jvG0zhxuFFp1EQq1OfHnMWGVQSzeH3bXz78Md696q&s=10" group-title="KOLKATA", STAR JALSHA HD
-https://lifetvbd.xyz:8880/live/omor20/omor20/7982.ts   
+http://kst.moonplex.net:8080/CH3/index.m3u8   
 #EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180623/qf/aazug0foc.webp" group-title="KOLKATA", JALSHA MOVIES HD
 http://atg100.xyz/live/UL33K17/SYC4T9D/76205.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaO55xyH_7Tc6ixS8iIowp2cyesY-dg3Hf9GqXbMbZqtp-eocMh1cIfY5k&s=10" group-title="KOLKATA", JALSHA MOVIES SD
