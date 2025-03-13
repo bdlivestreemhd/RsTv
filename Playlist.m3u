@@ -2,9 +2,12 @@
 
 #EXTINF:-1 group-title="LIVE EVEN " tvg-logo="https://i.postimg.cc/sfc07kCn/20250313-225549.png", T Sports LIVE
 http://kst.moonplex.net:8080/CH2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GpJ9JQ6M/20241005-162825.png" group-title="BANGLADESH", GAZI TV HD
+http://isp.top10bhaluka.com/tv/stream.m3u8?id=GTV
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/365/logo/240x240/mobile_logo_731536001673438371.png" group-title="BANGLADESH", NAGORIK TV
+https://s1.thenayeemparvez.xyz/dptv/master.m3u8?id=59580
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d0jP3FD3/20250223-204353.png" tvg-id="<built-in function id>" group-title="LIVE EVEN",Willow Sports
 http://161.248.188.101/willow_xtra/index.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/63/logo/240x240/mobile_logo_118855001673182388.png" group-title="BANGLADESH", BTV HD
@@ -58,7 +61,7 @@ http://103.163.247.39:80/local_out/channel9/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/52/logo/240x240/mobile_logo_262737001655890931.png" group-title="BANGLADESH", CHANNEL 24 HD
 https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channel24-sg-e8e.stream/playlist.m3u8?e=1741374870&st=XFwAZW0PO1G2q9WoU7PH6g
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PqtdhkF4/20241005-165038.png" group-title="BANGLADESH", T Sports 
-http://kst.moonplex.net:8080/CH2/index.m3u8 
+http://kst.moonplex.net:8080/CH2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GpJ9JQ6M/20241005-162825.png" group-title="BANGLADESH", GAZI TV HD
 http://isp.top10bhaluka.com/tv/stream.m3u8?id=GTV
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/365/logo/240x240/mobile_logo_731536001673438371.png" group-title="BANGLADESH", NAGORIK TV
